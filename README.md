@@ -17,9 +17,8 @@ This project focuses on the analysis and visualization of Bitcoin data to unders
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/your_username/bitcoin-data-analysis.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the main script: `python main.py`
-4. Explore the generated visualizations and analysis insights.
+2. Install the required libraries (Anaconda Suggested)
+3. Explore the generated visualizations and analysis insights.
 
 ## Dependencies
 
@@ -27,11 +26,7 @@ This project focuses on the analysis and visualization of Bitcoin data to unders
 - Pandas
 - Matplotlib
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
-- Special thanks to [Data Source Provider Name] for providing the Bitcoin and stock data.
+- Special thanks to Dr. Angela Yu for providing the Bitcoin and stock data.
 - Inspired by similar projects and tutorials in data analysis and visualization.
